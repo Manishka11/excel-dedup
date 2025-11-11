@@ -1,0 +1,11 @@
+# Core Dependencies
+streamlit>=1.20.0
+pandas>=2.0.0
+openpyxl>=3.0.0
+rapidfuzz>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+pyarrow
+# optional (installed only if you want): modin, polars
+# modin[df] 
+# polars
